@@ -1,5 +1,7 @@
 {
   "name": "mypotholeMonitor",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
